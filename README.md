@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&pause=1000&color=000000&width=435&lines=Hello+World!+I'm+Muhammad+Febri+Hermansyah+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FFFFFF&width=535&lines=Hello+World!+I'm+Muhammad+Febri+Hermansyah+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Header](img/header.png)
 
