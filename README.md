@@ -53,6 +53,6 @@ I'm Muhammad Febri Hermansyah, an Information Systems student who’s passionate
 <img src="https://github-contributor-stats.vercel.app/api?username=whoisfebry&limit=5&theme=dark&combine_all_yearly_contributions=true&icon_color=61DAFB" width="450" alt="Top Contributed Repo"/>
 
 ##### Play games with me
-<img src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph (dark mode)" />
+<img src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 
 <img src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/snake.svg" alt="Snake animation" />
