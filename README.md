@@ -1,6 +1,7 @@
-<h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&left=true&vleft=true&width=700&lines=Hello+World!+I'm+Muhammad+Febri+Hermansyah+👋" alt="Typing SVG" />
-</h2>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&left=true&vleft=true&width=800&lines=Hello+World!+I'm+Muhammad+Febri+Hermansyah+👋" alt="Typing SVG" />
+</p>
+
 
 ![Header](img/header.png)
 
