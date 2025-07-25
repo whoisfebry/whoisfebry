@@ -6,26 +6,26 @@
 I'm Muhammad Febri Hermansyah, an Information Systems student who’s passionate about crafting digital experiences through web development, UI/UX design, mobile apps, and data visualization. I enjoy turning ideas into interactive products whether it’s building a user-friendly interface, analyzing business data, or developing functional websites and mobile apps. I love learning by doing, and I’m always excited to explore new tools, collaborate on meaningful projects, and grow as a developer and designer.
 
 ##### Language, Technologies, and Tools
-<div style="display: flex; gap: 30px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&perline=3" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,py,postman,figma&perline=3" />
-  </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ##### Connect With Me
-<div style="display: flex; gap: 8px;">
-  <a href="https://instagram.com/fbrybme" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://github.com/whoisfebry" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/mfebrih" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo"  />
 </div>
 
 ##### My Github Stats
@@ -53,11 +53,14 @@ I'm Muhammad Febri Hermansyah, an Information Systems student who’s passionate
 <img src="https://github-contributor-stats.vercel.app/api?username=whoisfebry&limit=5&theme=dark&combine_all_yearly_contributions=true&icon_color=61DAFB" width="450" alt="Top Contributed Repo"/>
 
 ##### Play games with me
-<img src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/snake.svg" alt="Snake animation" />
-
-#####
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/snake.svg" alt="Snake animation" />
+
+###
