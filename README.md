@@ -1,7 +1,4 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&left=true&vleft=true&width=800&lines=Hello+World!+I'm+Muhammad+Febri+Hermansyah+👋" alt="Typing SVG" />
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&pause=1000&color=000000&width=435&lines=Hello+World!+I'm+Muhammad+Febri+Hermansyah+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Header](img/header.png)
 
