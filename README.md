@@ -1,7 +1,9 @@
 ## Hello World! I'm Muhammad Febri Hermansyah 👋
 
 ##### About Me
+<div align="justify">
 I'm Muhammad Febri Hermansyah, an Information Systems student who’s passionate about crafting digital experiences through web development, UI/UX design, mobile apps, and data visualization. I enjoy turning ideas into interactive products whether it’s building a user-friendly interface, analyzing business data, or developing functional websites and mobile apps. I love learning by doing, and I’m always excited to explore new tools, collaborate on meaningful projects, and grow as a developer and designer.
+</div>
 
 ##### Language, Technologies, and Tools
 <div align="left">
