@@ -66,4 +66,4 @@ I'm Muhammad Febri Hermansyah, an Information Systems student who’s passionate
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/whoisfebry/whoisfebry/output/snake.svg" alt="Snake animation" />
+###
